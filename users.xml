@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user id="1">
+        <firstname>Elizabteh</firstname>
+        <lastname>Liones</lastname>
+        <occupation>princess</occupation>
+    </user>
+    <user id="2">
+        <firstname>Escanor</firstname>
+        <lastname>DaddySunshine</lastname>
+        <occupation>SunGod</occupation>
+    </user>
+    <user id="3">
+        <firstname>Arthur</firstname>
+        <lastname>Pendragon</lastname>
+        <occupation>king</occupation>
+    </user>    
+</users>
