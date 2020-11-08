@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-11-04T22:27:58.200Z",
+        "start_timestamp": "2020-11-08T02:06:55.270Z",
         "line": 3,
         "name": "The file is an xml file",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 136000000,
+              "duration": 139000000,
               "status": "passed"
             },
             "line": 4,
@@ -31,7 +31,7 @@
           },
           {
             "result": {
-              "duration": 1000000,
+              "duration": 2000000,
               "status": "passed"
             },
             "line": 5,
@@ -43,7 +43,7 @@
           },
           {
             "result": {
-              "duration": 6000000,
+              "duration": 7000000,
               "status": "passed"
             },
             "line": 6,
@@ -55,7 +55,7 @@
           },
           {
             "result": {
-              "duration": 100000000,
+              "duration": 138000000,
               "status": "passed"
             },
             "line": 7,
@@ -74,7 +74,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-11-04T22:27:58.564Z",
+        "start_timestamp": "2020-11-08T02:06:55.687Z",
         "line": 9,
         "name": "the file is a json file",
         "description": "",
