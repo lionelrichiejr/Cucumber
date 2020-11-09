@@ -87,7 +87,7 @@ public class StepDefinitions {
 	TransformerFactory transformerFactory = TransformerFactory.newInstance();
         Transformer transformer = transformerFactory.newTransformer();
         DOMSource domSource = new DOMSource(deadly_sins);
-	File outFile = new File("/home/ec2-user/hellocucumber/deadly_sins.xml");
+	File outFile = new File("/var/lib/jenkins/workspace/Cucumber/deadly_sins.xml");
         StreamResult streamResult = new StreamResult(outFile);
 	transformer.transform(domSource, streamResult);
 	assertEquals(true, outFile.exists());
